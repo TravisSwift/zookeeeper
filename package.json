@@ -1,0 +1,24 @@
+{
+  "name": "zookeeeper",
+  "version": "1.0.0",
+  "description": "A project to finish building the back end (i.e., server), and connect it to the front-end code.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TravisSwift/zookeeeper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TravisSwift/zookeeeper/issues"
+  },
+  "homepage": "https://github.com/TravisSwift/zookeeeper#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
